@@ -1,0 +1,33 @@
+.slideTwo{
+    background: #333333;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.slideTwo h2{
+    padding-left:48%;
+    font-size: 24px;
+    line-height: 39px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #CBCBCB;
+}  
+.slideTwoContent{
+    padding-left:50px;
+    padding-right:50px;
+    display: flex;
+}
+.SlideTwoImg{
+    width: 475px;
+    height: 345px;
+    border-radius: 51px;
+}
+.slideTwoText{
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    padding-left:50px;
+}

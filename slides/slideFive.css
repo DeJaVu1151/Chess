@@ -1,0 +1,125 @@
+.slideFive{
+    margin: 0px;
+    font-size: 14px;
+    background: #CBCBCB;
+    padding: 75px 40px;
+}
+.slideFive h2{
+    padding-left:580px;
+    font-size: 24px;
+    line-height: 39px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #333333;
+    padding-bottom: 90px;
+} 
+.slideFive ul{
+    list-style: none;
+    margin: 0;
+    display: flex;
+    margin-right: 10px;
+    text-align: center;
+    align-items: center;
+}
+.slideFive li{
+    padding-right: 260px;
+}
+.slideFive ul li:last-child{
+    margin-right: 0;
+}
+.slideFive p {
+    color: #CBCBCB;
+    padding-left: 35%;
+    margin-bottom: 25px;
+}
+.slideFivePart1{
+    width: 280px;
+    height: 400px;
+    background: #292929;
+    border-radius: 86px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.slideFivePart2{
+    width: 280px;
+    height: 400px;
+    background: #292929;
+    border-radius: 86px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.slideFivePart3{
+    width: 280px;
+    height: 400px;
+    background: #292929;
+    border-radius: 86px; 
+    display: flex;
+    align-items: center;
+    text-align: center;  
+}
+.slideFive_img1{
+    width: 215px;
+    height: 250px;
+    border-radius: 840px;
+    align-items: center;
+    padding-left: 15%;
+}
+.slideFive_img2{
+    width: 215px;
+    height: 270px;
+    border-radius: 840px;
+    align-items: center;
+    padding-left: 15%;
+}
+.slideFive_img3{
+    width: 190px;
+    height: 240px;
+    border-radius: 840px;
+    align-items: center;
+    padding-left: 23%;
+}
+.slideFive_btn1{
+    width: 200px;
+    height: 50.5px;
+    border-radius: 36px;
+    align-items: center;
+    background: #CBCBCB;
+    border: 0px;
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+    margin-left: 20%;
+}
+.slideFive_btn1:hover{
+    opacity: 0.8;
+}
+.slideFive_btn2{
+    width: 200px;
+    height: 50.5px;
+    border-radius: 36px;
+    background: #CBCBCB;
+    align-items: center;
+    border: 0px;
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+    margin-left: 20%;
+}
+.slideFive_btn2:hover{
+    opacity: 0.8;
+}
+.slideFive_btn3{
+    width: 200px;
+    height: 50.5px;
+    border-radius: 36px;
+    align-items: center;
+    background: #CBCBCB;
+    border: 0px;
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+    margin-left: 20%;
+}
+.slideFive_btn3:hover{
+    opacity: 0.8;
+}

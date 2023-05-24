@@ -1,0 +1,32 @@
+.footer{
+    font-size: 14px;
+    background: #333333;
+    color: #CBCBCB;
+    padding: 10px 20px;
+}
+.header li{
+    margin-right: 25px;
+}
+.footer ul{
+    list-style: none;
+    margin: 0;
+    display: flex;
+    margin-right: 10px;
+    text-align: left;
+    align-items: center;
+}
+.footer p{
+    margin-right: 55px;
+    user-select: none;
+}
+.footer a{
+    text-decoration: none;
+    color: #CBCBCB;
+}
+.footer a:hover{
+    text-decoration: underline;
+    text-decoration-color: #CBCBCB;
+}
+.footer ul li:last-child{
+    margin-right: 0;
+}

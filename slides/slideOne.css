@@ -1,0 +1,16 @@
+.slideOne{
+    margin-top: 70px;
+    background-image: url(../pictures/main.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.slideOne h2{
+    font-size: 32px;
+    color: #333333;
+    height: 750px;
+    text-align: center;
+    align-items: center;
+    display: grid;
+    place-items: center;
+}
